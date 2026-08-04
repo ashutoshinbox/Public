@@ -5,9 +5,7 @@ To demonstrate our ai-agentic capabilities:
 Let's consider a common security challenge: receiving a high-priority Qualys vulnerability incident via ServiceNow without knowing whether it impacts the OS or a specific application.
 
 
-
 We can fully automate this lifecycle using an intelligent agent. 
-
 
 
 The agent automatically ingests the ServiceNow ticket, identifies the asset, and determines the vulnerability type. 
