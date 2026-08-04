@@ -2,7 +2,7 @@ To demonstrate our ai-agentic capabilities:
 
 
 
-Let's consider a common IT challenge: receiving a high-priority Qualys vulnerability incident via ServiceNow without knowing whether it impacts the OS or a specific application.
+Let's consider a common security challenge: receiving a high-priority Qualys vulnerability incident via ServiceNow without knowing whether it impacts the OS or a specific application.
 
 
 
